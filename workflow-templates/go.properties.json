@@ -1,0 +1,8 @@
+{
+    "name": "Go CI Workflow",
+    "description": "Go CI workflow template.",
+    "iconName": "icons8-golang",
+    "categories": [
+        "Go"
+    ]
+}
